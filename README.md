@@ -7,14 +7,15 @@ Review of Economic Dynamics. (Forthcoming)
 
 by
 
-[Boragan Aruoba](http://aruoba.econ.umd.edu) (Maryland)
-[Pablo Cuba-Borda](http://www.pcubaborda.net) (Board of Governors)
-[Kenji Higa-Flores]() (Maryland)
-[Sergio Villalvazo](https://www.sergiovillalvazo.com) (Penn)
+[Boragan Aruoba](http://aruoba.econ.umd.edu) (Maryland), 
+[Pablo Cuba-Borda](http://www.pcubaborda.net) (Board of Governors), 
+[Kenji Higa-Flores]() (Maryland), 
+[Sergio Villalvazo](https://www.sergiovillalvazo.com) (Penn), and 
 [Frank Schorfheide](http://sites.sas.upenn.edu/schorf/) (Penn)
 
 ## List of Scripts
-These scripts, run in this order, generate the results presented in the paper. All results are produced using Julia. Plotting is done using the Matlab scripts in this directory.
+These scripts, run in this order, generate the results presented in the paper. All results are produced using Julia v1.5.3. 
+Plots are produced using the Matlab R2020a scripts in this directory.
 
 1. __Generate data__
 * script_SimulateModel.jl
